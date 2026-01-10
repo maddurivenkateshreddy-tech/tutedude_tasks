@@ -1,7 +1,7 @@
 ASSIGNMENT 1:
 Module 2: Basic Python Concepts
  
-Task 1: Perform Basic Mathematical Operations
+Task 1: Perform Basic Mathematical Operations [math_operations.py]
 Problem Statement: Write a Python program that does the following:
 1.  Takes two numbers as input from the user.
 2.  Performs the basic mathematical operations on these two numbers:
@@ -13,14 +13,36 @@ o	Division
  Expected Output:
 The output should include the result of each operation performed, for example:
  
-Task 2: Create a Personalized Greeting
+Task 2: Create a Personalized Greeting [personal_greeting.py]
 Problem Statement: Write a Python program that:
 1.  Takes a user's first name and last name as input.
 2.  Concatenates the first name and last name into a full name.
 3.  Prints a personalized greeting message using the full name.
 Expected Output:
 The program should output a greeting like:
+
+Module 3 : Control Structures
  
+Task 1: Check if a Number is Even or Odd - [even_odd.py]
+Problem Statement:  Write a Python program that:
+1. 	Takes an integer input from the user.
+2. 	Checks whether the number is even or odd using an if-else statement.
+3. 	Displays the result accordingly.
+Expected Output:
+The program should output a message like:
+The number 4 is even. 
+
+Task 2: 
+ 
+ Task 2: Sum of Integers from 1 to 50 Using a Loop [sum_of_nummbers.py]
+ 
+Problem Statement: Write a Python program that:
+1.   Uses a for loop to iterate over numbers from 1 to 50.
+2.   Calculates the sum of all integers in this range.
+3.   Displays the final sum.
+Expected Output:
+The program should output a message like:
+The sum of integers from 1 to 50 is 1275.
  
 Submission Instructions:
 Please watch the following video and follow the steps shown in it to complete your assignment: Video Link: https://drive.google.com/file/d/1W7zBA-jT-4hc-pmCEpHLMEO6GipFXPv5/view 
