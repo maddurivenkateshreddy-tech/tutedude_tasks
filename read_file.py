@@ -1,4 +1,5 @@
 """
+Module 5 - Assignments - Files, Exceptions, and Modules
 Task 1: Read a File and Handle Errors 
 Problem Statement:  Write a Python program that:
 1.   Opens and reads a text file named sample.txt.
